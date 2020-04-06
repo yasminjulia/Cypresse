@@ -1,0 +1,26 @@
+{
+    "name": "cypress",
+    "version": "1.0.0",
+    "description": "Cenario de teste automatizado",
+    "main": "index.js",
+    "scripts": {
+        "cypress:open": "cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yasminjulia/Cypress.git"
+    },
+    "keywords": [
+        "test"
+    ],
+    "author": "Julia Guimaraes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yasminjulia/Cypress/issues"
+    },
+    "homepage": "https://github.com/yasminjulia/Cypress#readme",
+    "dependencies": {
+        "cypress": "^4.0.0",
+        "cypress-xpath": "^1.4.0"
+    }
+}
